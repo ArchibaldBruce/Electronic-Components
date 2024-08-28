@@ -1,2 +1,1 @@
-# Electronic-Components
-I will show all kinds of electronic components and let people get more familiar to them!!!
+Because they convert alternating current (AC) into pulsing direct current (DC), diodes are often referred to as rectifiers. [Diodes](https://www.ersaelectronics.com/c/diodes) are rated based on voltage, type, and current carrying capacity. An anode (positive lead) and a cathode (negative lead) determine the polarity of a diode. The majority of diodes only permit current to flow when the anode receives a positive voltage.
