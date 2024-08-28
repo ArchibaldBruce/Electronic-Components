@@ -15,15 +15,13 @@ Semiconductors of the P and N types are used as diode materials. P-type semicond
 
 An electrode terminal linked to a pn junction formed in this way is called a diode. An electrode terminal linked to a pn junction formed in this way is called a diode. (Figure 1)
 ![image](https://github.com/user-attachments/assets/50a42ec2-348c-453a-8a88-3fc1a2771f20)
-Figure 1: Diode Symbol
+
 Only when a diode is forward-biased, or when the anode is more positively biased than the cathode, can electricity flow through it (Figure 2). Rectification is the process that permits current to flow solely in one direction.
 ![image](https://github.com/user-attachments/assets/1705b7fd-c275-4ce0-a2d7-d72212ad828e)
-Figure 2: Polarity of Diode
+
 
 Generally speaking, a diode doesn't conduct when reverse-biased. However, when the reverse bias voltage is raised, a diode suffers an abrupt, substantial current flow at a specific value. This voltage is known as the breakdown voltage (VBR). In the breakdown area above VBR, a tiny change in voltage causes a large change in current. Put differently, the voltage changes relatively little in response to a change in current. Two types of diodes designed to capitalize on this constant-voltage nature are Zener diodes and transient voltage suppression (TVS) diodes, also referred to as ESD protection diodes. Figure 11 shows the IF-VF curve of a pn junction diode.
 ![image](https://github.com/user-attachments/assets/64728061-9d62-4886-b062-76e86794105f)
-Figure 3: Characteristics of pn junction diode
-
 
 
 
